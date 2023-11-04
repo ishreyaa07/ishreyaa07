@@ -1,4 +1,4 @@
-![Uploading Hello, my name is Shreya Sharma. Nice to meet you. (3).png…]()
+![Hello, my name is Shreya Sharma  Nice to meet you  (3)](https://github.com/ishreyaa07/ishreyaa07/assets/98052441/00d328e7-6a4b-4377-b49c-cec40d85ba50)
 
 <h1 align="center">Hi , I'm Shreya</h1>
 <h3 align="center">Budding Data Scientist | Data Scientist | Computer Vision | AI & ML</h3>
