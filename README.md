@@ -1,8 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://drive.google.com/file/d/1JMhXcXM346qlW1amMV1istsKkv9tbK3k/view?usp=sharing)
+![Uploading Hello, my name is Shreya Sharma. Nice to meet you. (3).png…]()
+
 <h1 align="center">Hi , I'm Shreya</h1>
 <h3 align="center">Budding Data Scientist | Data Scientist | Computer Vision | AI & ML</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/sbY6KT50az4AAAAC/korean-glow.gif.">
+<img align="right" alt="Coding" width="20" src="https://media.tenor.com/sbY6KT50az4AAAAC/korean-glow.gif.">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishreyaa07&label=Profile%20views&color=0e75b6&style=flat" alt="ishreyaa07" /> </p>
 
