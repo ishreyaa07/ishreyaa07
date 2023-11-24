@@ -5,7 +5,6 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/sbY6KT50az4AAAAC/korean-glow.gif.">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishreyaa07&label=Profile%20views&color=0e75b6&style=flat" alt="ishreyaa07" /> </p>
 
 - I’m currently working on **Object Detection Models YOLOV7 and COCO**
 
