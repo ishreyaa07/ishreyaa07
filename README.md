@@ -3,8 +3,6 @@
 <h1 align="center">Hi , I'm Shreya</h1>
 <h3 align="center">Budding Data Scientist | Data Scientist | Computer Vision | AI & ML</h3>
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/sbY6KT50az4AAAAC/korean-glow.gif.">
-
 
 - I’m currently working on **Object Detection Models YOLOV7 and COCO**
 
